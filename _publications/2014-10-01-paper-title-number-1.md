@@ -2,9 +2,9 @@
 title: "Support vector machine approach to cry-based diagnosis of birth asphyxia"
 collection: publications
 permalink: /publication/2014-10-01-svm-cry
-<!--excerpt: 'This paper is about the number 1. The number 2 is left for future work.'-->
+excerpt: '...'
 date: 2014-10-01
-<!--venue: 'International Humanitarian Technology Conference (IHTC), 2014 and Workshop on Machine Learning in Healthcare, Neural Information and Processing Systems (NIPS), 2015'-->
+venue: 'International Humanitarian Technology Conference (IHTC), 2014 and Workshop on Machine Learning in Healthcare, Neural Information and Processing Systems (NIPS), 2015'
 paperurl: 'https://arxiv.org/ftp/arxiv/papers/1808/1808.08299.pdf'
 citation: 'Charles C Onu. International Humanitarian Technology Conference (IHTC), 2014 and Workshop on Machine Learning in Healthcare, Neural Information and Processing Systems (NIPS), 2015'
 ---
