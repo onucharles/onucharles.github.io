@@ -83,7 +83,7 @@ author:
   name             : "Charles C Onu"
   avatar           : "profile.png"
   bio              : "PhD Student, McGill University & Mila - Québec AI Institute"
-  location         : "Location"
+  location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mH6pBuMAAAAJ&hl=en"
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/onucharles"
+  github           : "onucharles"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/onucharles/"
+  linkedin         : "onucharles/"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@onucharlesc"
+  twitter          : "onucharlesc"
   vine             :
   weibo            :
   xing             :
