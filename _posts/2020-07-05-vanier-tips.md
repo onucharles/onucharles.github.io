@@ -27,7 +27,7 @@ The 3 criteria (academic excellence, research potential, leadership) upon which 
 
 Each document has multiple purposes
 ------
-This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is not true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not be obvious from the get-go.
+This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is not true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
 
 ![Vanier table sample](/images/vanier-table-sample.png)
 

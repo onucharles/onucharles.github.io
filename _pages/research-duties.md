@@ -5,7 +5,7 @@ permalink: /research-duties/
 author_profile: true
 ---
 
-### Machine Learning for Healthcare Workshop, ICML 2020
+### Machine Learning for Global Health Workshop, ICML 2020
 * Co-organiser
 * Reviewer
 
