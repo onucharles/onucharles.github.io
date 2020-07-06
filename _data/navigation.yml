@@ -8,9 +8,9 @@ main:
     
   - title: "Projects"
     url: /projects/
+    
+  - title: "Research Duties"
+    url: /research_duties/
         
   - title: "Blog Posts"
     url: /blog/
-    
-  - title: "Other"
-    url: /other/
