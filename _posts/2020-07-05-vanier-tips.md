@@ -19,7 +19,7 @@ Let's get to it.
 
 Read the website thoroughly
 ------
-There is an inclination to just go to Vanier website download the list of required documents and start preparing them. The application is more than that. There are many nuances to be aware of. Read the full instructions, eligibility, what is expected. Read everything. Read even the instructions to the selection  committee- yes it's on the website.
+There is an inclination to just go to the Vanier website download the list of required documents and start preparing them. The application is more than that. There are many nuances to be aware of. Read the full instructions, eligibility, what is expected. Read everything. Read even the instructions to the selection  committee - yes it's on the website.
 
 Three (3) equally-weighted criteria
 ------
@@ -27,7 +27,7 @@ The 3 criteria (academic excellence, research potential, leadership) upon which 
 
 Each document has multiple purposes
 ------
-This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is not true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
+This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is **not** true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
 
 ![Vanier table sample](/images/vanier-table-sample.png)
 
@@ -47,7 +47,7 @@ Show me and I will remember. You could read tons of articles and listen to advic
 
 If you must, apply again
 ------
-I applied twice before I got the Vanier, first in 2017, then in 2018. Of course give it your best shot the first time. Many people get it on their first try. But don't be discouraged if you don't get it. If anything you are in a better position the second time 'cos you have your documents set, you just need to improve them, include the new feathers you have added to your cap and the fun part - chase your professors for reference letters all over again.
+I applied twice before I got the Vanier, first in 2017, then in 2018. Of course give it your best shot the first time. Many people get it on their first try. But don't be discouraged if you don't get it. If anything you are in a better position the second time 'cos you have your documents set, you just need to improve them, include the new feathers you have added to your cap and ofcourse chase your professors for reference letters all over again (fun stuff).
 
 ---
 
@@ -63,4 +63,5 @@ Best,
 FAQ
 ------
 1. Do I need to have publications?
-I'd say you should have at least one. But note that that criteria tests research "potential". So even if you don't have publications focus on the work you have done/are doing, your aims for it, your methods, show how you think about rigour, etc.
+
+I'd say not neccessarily. Follow the norms in your field. In some disciplines (eg. machine learning these days) it is normal to have 1 or 2 publications during a masters degree. For others, it could be that publishing only comes towards the end of a PhD. In either case, remember that published papers are not the only form of research contributions. Highlight your masters and undergrad theses or other interesting research you did/are doing that is not (yet) published.
