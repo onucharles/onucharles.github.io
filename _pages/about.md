@@ -15,3 +15,10 @@ I founded and lead AI Research at [Ubenwa](http://ubenwa.ai/). The Ubenwa projec
 Latest News
 -----
 15 June 2020: I am co-organising the Workshop on [Machine Learning for Global Health](https://mlforglobalhealth.org/) at ICML 2020. 
+
+Honours
+-----
+* Vanier Doctoral Scholarship ($150,000), 2019 - 2022
+* Associate Fellow, Royal Commonwealth Society, 2016
+* Jeanne Sauvé Fellow, 2015
+* Undergraduate Scholarhip, Shell Petroleum Development Company of Nigeria (NGN 250,000), 2006 - 2011
