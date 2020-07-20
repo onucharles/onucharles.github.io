@@ -6,5 +6,5 @@ excerpt: '...'
 date: 2018-08-01
 venue: '40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2018'
 paperurl: 'https://arxiv.org/pdf/1808.07992'
-authors: 'Lara J. Kanbar, **Charles C. Onu**, Wissam Shalish, Karen A. Brown, Guilherme M. Sant`` ` ``Anna, Robert E. Kearney, Doina Precup.'
+authors: 'Lara J. Kanbar, Charles C. Onu, Wissam Shalish, Karen A. Brown, Guilherme M. Sant`` ` ``Anna, Robert E. Kearney, Doina Precup.'
 ---
