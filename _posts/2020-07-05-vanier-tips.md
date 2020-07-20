@@ -7,7 +7,7 @@ tags:
   - scholarship
 ---
 
-![Vanier Logo](/_posts/images/vanier-logo.png)
+![Vanier Logo](/images/posts/vanier-logo.png)
 
 The [Vanier Canada Graduate Scholarship](https://vanier.gc.ca/en/home-accueil.html) is undoubtedly one of the (if not the most) prestigious doctoral scholarships in Canada. In this article, I provide my thoughts on how you can make a compelling application.
 
@@ -31,7 +31,7 @@ Each document has multiple purposes
 ------
 This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is **not** true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
 
-![Vanier table sample](/images/vanier-table-sample.png)
+![Vanier table sample](/images/posts/vanier-table-sample.png)
 
 Similarly, the reviewers are asked to find signs of leadership even in your research proposal, and so on. So instead of simply itemising your research accomplishments, make sure to tell a story of you with them. Why did you chose those questions? What critical choices did you have to make in your research career? How are you thinking about broader societal impact of your work? Etc. Note again that this applies to almost every document you will have to provide. When you are done preparing each document, take the tables and ask yourself, does it adequately demonstrate the things the reviewers are looking for?
 
