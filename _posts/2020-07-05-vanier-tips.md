@@ -7,9 +7,9 @@ tags:
   - scholarship
 ---
 
-![Vanier Logo](/images/posts/vanier-logo.png)
-
 The [Vanier Canada Graduate Scholarship](https://vanier.gc.ca/en/home-accueil.html) is undoubtedly one of the (if not the most) prestigious doctoral scholarships in Canada. In this article, I provide my thoughts on how you can make a compelling application.
+
+![Vanier Logo](/images/posts/vanier-logo.png)
 
 I decided to write this article because since 2019 when I received the Vanier CGS, I have gotten several requests to provide tips and advice, help review, applications, etc. I have had long phone calls, replied emails, LinkedIn chats, etc but it is fast becoming untenable, and I quickly find that I'm repeating and exhausting myself. So with this article I hope to put down in one place some of the things I find most important to think of, some not obvious to the average applicant.
 
