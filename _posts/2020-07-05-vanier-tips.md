@@ -7,7 +7,7 @@ tags:
   - scholarship
 ---
 
-The [Vanier Canada Graduate Scholarship](https://vanier.gc.ca/en/home-accueil.html) is undoubtedly one of the (if not the most) prestigious doctoral scholarships in Canada. In this article, I provide my thoughts on how you can make a compelling application.
+The [Vanier Canada Graduate Scholarship](https://vanier.gc.ca/en/home-accueil.html) is undoubtedly one of the prestigious doctoral scholarship programs in Canada, and unlike several others it is open to both citizens and international students. In this article, I provide my thoughts on how you can make a compelling application.
 
 ![Vanier Logo](/images/posts/vanier-logo.png)
 
