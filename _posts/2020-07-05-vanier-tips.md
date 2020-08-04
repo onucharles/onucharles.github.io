@@ -29,7 +29,7 @@ The 3 criteria (academic excellence, research potential, leadership) upon which 
 
 Each document has multiple purposes
 ------
-This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is **not** true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee with be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
+This was probably the most important advice I received when I applied. It is tempting to think monotonically. E.g. that the research proposal tests your research potential, leadership statement tests your leadership abilities, etc. This is **not** true. *Each document tests multiple criteria*. And if you do read the website thoroughly, you will [find tables](https://vanier.gc.ca/en/selection_committee_guide-comite_selection_lignes.html#b03) (like the one below) for each criterion. As you can see, the selection committee will be considering your Personal Leadership Statement while assessing you for Academic Excellence. Therefore you should weave in comments relating to this into your statement. If you're like me, this might not have been obvious from the get-go.
 
 ![Vanier table sample](/images/posts/vanier-table-sample.png)
 
@@ -49,7 +49,7 @@ Show me and I will remember. You could read tons of articles and listen to advic
 
 If you must, apply again
 ------
-I applied twice before I got the Vanier, first in 2017, then in 2018. Of course give it your best shot the first time. Many people get it on their first try. But don't be discouraged if you don't get it. If anything you are in a better position the second time 'cos you have your documents set, you just need to improve them, include the new feathers you have added to your cap and ofcourse chase your professors for reference letters all over again (fun stuff).
+I applied twice before I got the Vanier, first in 2017, then in 2018. Of course give it your best shot the first time. Many people get it on their first try too. But don't be discouraged if you don't get it. If anything you are in a better position the second time 'cos you have your documents set, you just need to improve them, include the new feathers you have added to your cap and of course chase your professors for reference letters all over again (fun stuff).
 
 ---
 
