@@ -14,6 +14,7 @@ I founded and lead AI Research at [Ubenwa](http://ubenwa.ai/). The Ubenwa projec
 
 Latest News
 -----
+7 Jan 2021: McGill University just published [a story about Ubenwa](https://www.mcgill.ca/channels/article/birth-idea) - our beginnings and the work we are doing to save newborns at birth using AI.
 29 Aug 2020: I am co-organising the Workshop on [Machine Learning for Health](https://ml4health.github.io/2020/) at [NeurIPS](https://neurips.cc) 2020. Our theme for this year is "Advancing Healthcare for All".  
 05 July 2020: [New blog post](https://onucharles.github.io/posts/2020/07/vanier-tips/) on applying for the Vanier doctoral scholarship.  
 15 June 2020: I am co-organising the Workshop on [Machine Learning for Global Health](https://mlforglobalhealth.org/) at ICML 2020. 
