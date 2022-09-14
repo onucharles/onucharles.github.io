@@ -14,8 +14,8 @@ I founded and lead AI Research at [Ubenwa](http://ubenwa.ai/). The Ubenwa projec
 
 Latest News
 -----
-* 31 July 2022: I joined [C100](https://www.thec100.org/members#) a global community of Canadian leaders in tech.
-* 25 July 2022: We closed a US$2.5M funding round. See [press release](https://www.ubenwa.ai/blog/ubenwa-raises-pre-seed.html).  
+* 31 July 2022: I joined [C100](https://www.thec100.org/members#) a distinguished global community of Canadian leaders in tech.
+* 25 July 2022: We closed a US$2.5M funding round at Ubenwa. See [press release](https://www.ubenwa.ai/blog/ubenwa-raises-pre-seed.html) and [media coverage](https://betakit.com/backed-by-yoshua-bengio-ubenwa-is-using-ai-to-diagnose-neurological-issues-through-baby-cries/).  
 * 24 Mar 2021: I received the Harvard CRCS [Rising Star Award](https://mila.quebec/en/mila-researchers-sasha-luccioni-and-charles-onu-selected-as-harvard-crcs-2021-rising-stars-for-their-work-on-ai-for-social-good-projects/) for 2021. 
 * 7 Jan 2021: McGill University just published [a story about Ubenwa](https://www.mcgill.ca/channels/article/birth-idea) - our beginnings and the work we are doing to save newborns at birth using AI. 
 * 29 Aug 2020: I am co-organising the Workshop on [Machine Learning for Health](https://ml4health.github.io/2020/) at [NeurIPS](https://neurips.cc) 2020. Our theme for this year is "Advancing Healthcare for All".  
