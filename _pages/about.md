@@ -8,9 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I conduct my research at the intersection of artificial intelligence and healthcare at [Mila](https://mila.quebec/en/person/charles-c-onu/) and the [Reasoning and Learning (RL) lab](http://rl.cs.mcgill.ca/index.html), McGill University. My supervisor is [Prof. Doina Precup](https://mila.quebec/en/person/doina-precup/), co-director of RL lab and director of the DeepMind lab in Montreal. The overarching theme guiding my work is advancing machine learning to positively impact healthcare. Specific areas I work on include classical ML, deep learning, speech, physiological signal processing and tensor decomposition techniques. I hold a [Vanier](https://vanier.gc.ca/) Canada Graduate Scholarship.
+I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we're building AI to make healthcare more accessible. Our latest product, Roseline AI, helps patients get care faster and more safely. Before Roseline, we developed Nanni AI, a voice-based infant health app that has reached nearly half a million users across every country in the world. We are backed by VCs Radical and AIX [MIT Solve](https://solve.mit.edu/)
 
-I founded and lead AI Research at [Ubenwa](http://ubenwa.ai/). The Ubenwa project is aimed at developing cry-based, low-cost tools for early diagnosis of conditions that affect the central and autonomic nervous systems in newborns. Our work is funded by generous grants from Mila, Ministère de l’Économie et d'Innovation ([MEI](https://www.economie.gouv.qc.ca/en/)) du Québec, [District 3](http://d3center.ca/) Innovation Centre, and [MIT Solve](https://solve.mit.edu/).
+I completed my PhD in AI at [Mila](https://mila.quebec/en/person/charles-c-onu/) and [McGill University](https://cs.mcgill.ca/), focusing on neural transfer learning, domain adaptation, and model compression. I had the privilege of working with some of the field’s leading minds, including [Doina Precup](https://en.wikipedia.org/wiki/Doina_Precup), [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), and [Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau). In 2019, I received the [Vanier Fellowship](https://vanier.gc.ca/), Canada’s most prestigious doctoral award. 
+
+Before transitioning into AI in 2015, I studied electrical and computer engineering and worked for about four years as a software engineer in Nigeria’s energy sector. My very first job was in a [Lagos](https://en.wikipedia.org/wiki/Lagos) factory, climbing 40-foot scaffoldings daily to fix electrical fittings—an experience that taught me what it really takes to build things that matter.
+
+Outside of work, I recharge through sports and [music](https://www.youtube.com/@cconu). I enjoy running, swimming, and tennis, and play guitar, keyboard, and harmonica. I busked for three summers in Montreal and performed at the closing banquets of [NeurIPS](https://neurips.cc/) in 2018 and 2019.
 
 Latest News
 -----
