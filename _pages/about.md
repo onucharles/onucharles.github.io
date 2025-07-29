@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we're building AI to make healthcare more accessible. Our latest product, Roseline AI, helps patients get care faster and more safely. Before Roseline, we developed Nanni AI, a voice-based infant health app that has reached nearly half a million users across every country in the world. We are backed by VCs Radical and AIX [MIT Solve](https://solve.mit.edu/)
+I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we're building AI to make healthcare more accessible. Our latest product, [Roseline AI](https://www.roseline.ai/), helps patients get care faster and more safely. Before Roseline, we developed [Nanni AI](https://nanni.ai/), a voice-based infant health app that has reached nearly half a million users across every country in the world. We are backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/).
 
 I completed my PhD in AI at [Mila](https://mila.quebec/en/person/charles-c-onu/) and [McGill University](https://cs.mcgill.ca/), focusing on neural transfer learning, domain adaptation, and model compression. I had the privilege of working with some of the field’s leading minds, including [Doina Precup](https://en.wikipedia.org/wiki/Doina_Precup), [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), and [Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau). In 2019, I received the [Vanier Fellowship](https://vanier.gc.ca/), Canada’s most prestigious doctoral award. 
 
