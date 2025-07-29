@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charles C Onu"
+  name             : "Charles C Onu, PhD"
   avatar           : "profile.jpg"
-  bio              : "Co-founder, Ubenwa Health & PhD Candidate, Mila/McGill University"
+  bio              : "Computer Scientist. Founder of Ubenwa Health"
   location         : #"Location"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=mH6pBuMAAAAJ&hl=en"
-  email            : "charles.onu@mail.mcgill.ca"
+  email            : # "charles.onu@mail.mcgill.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
