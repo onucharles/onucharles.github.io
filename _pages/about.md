@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we build AI solutions that facilitate timely access to care. [Roseline AI](https://www.roseline.ai/), is an autonomous voice agent that helps patients get care faster, while reducing the burden on medical staff. Previously, through research partnerships with children's hospitals across 3 continents, we developed [Nanni AI](https://nanni.ai/), a voice-based infant health app that has reached half a million users across every country in the world. 
+I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), on a mission to facilitate timely access to care using voice AI. Through research partnerships with children's hospitals across 3 continents, we developed [Nanni AI](https://nanni.ai/), the first AI that interpretes infants' needs and health using only the sound of their cry. Nanni AI has served half a million users across every country in the world. 
 
-Ubenwa is backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/). Our other investors include AI leaders: Jeff Dean, Yoshua Bengio, Hugo Larochelle, and Marc Bellemare.
+Our latest product, [Roseline AI](https://www.roseline.ai/), is an autonomous voice agent that helps patients get care faster, while reducing the burden on medical staff. Roseline handles tens of thousands of calls monthly for Canadian healthcare organisations. We are backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/). Other investors include AI leaders: Jeff Dean, Yoshua Bengio, Hugo Larochelle, and Marc Bellemare.
 
 I completed my PhD in AI at [Mila](https://mila.quebec/en/person/charles-c-onu/) and [McGill University](https://cs.mcgill.ca/), focusing on neural transfer learning, domain adaptation, and model compression. I had the privilege of working with some of the field’s leading minds, including [Doina Precup](https://en.wikipedia.org/wiki/Doina_Precup), [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), and [Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau). In 2019, I received the [Vanier Fellowship](https://vanier.gc.ca/), Canada’s most prestigious doctoral award. 
 
