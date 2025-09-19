@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), on a mission to facilitate timely access to care using voice AI. Through research partnerships with children's hospitals across 3 continents, we developed [Nanni AI](https://nanni.ai/), the first AI that interpretes infants' needs and health using only the sound of their cry. Nanni AI has served half a million users across every country in the world. 
+I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), a company dedicated to improving access to healthcare with voice AI. Through research partnerships with children's hospitals across 3 continents, we developed [Nanni AI](https://nanni.ai/), the first AI that interpretes infants' needs and health using only the sound of their cry. Nanni AI has served half a million users across every country in the world. 
 
 Our latest product, [Roseline AI](https://www.roseline.ai/), is an autonomous voice agent that helps patients get care faster, while reducing the burden on medical staff. Roseline handles tens of thousands of calls monthly for Canadian healthcare organisations. We are backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/). Other investors include AI leaders: Jeff Dean, Yoshua Bengio, Hugo Larochelle, and Marc Bellemare.
 
