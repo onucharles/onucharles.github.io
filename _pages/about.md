@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we're building AI to make healthcare more accessible. Our latest product, [Roseline AI](https://www.roseline.ai/), helps patients get care faster and more safely. Before Roseline, we developed [Nanni AI](https://nanni.ai/), a voice-based infant health app that has reached nearly half a million users across every country in the world. We are backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/).
+I'm the founder and CEO of [Ubenwa](http://ubenwa.ai/), where we build AI solutions that facilitate timely access to care. [Roseline AI](https://www.roseline.ai/), is an autonomous voice agent that helps patients get care faster, while reducing the burden on medical staff. Previously, through research partnerships with children's hospitals across 3 continents, we developed [Nanni AI](https://nanni.ai/), a voice-based infant health app that has reached half a million users across every country in the world. 
+
+Ubenwa is backed by VCs [Radical Ventures](https://radical.vc/) and [AIX Ventures](https://www.aixventures.com/). Our other investors include AI leaders: Jeff Dean, Yoshua Bengio, Hugo Larochelle, and Marc Bellemare.
 
 I completed my PhD in AI at [Mila](https://mila.quebec/en/person/charles-c-onu/) and [McGill University](https://cs.mcgill.ca/), focusing on neural transfer learning, domain adaptation, and model compression. I had the privilege of working with some of the field’s leading minds, including [Doina Precup](https://en.wikipedia.org/wiki/Doina_Precup), [Yoshua Bengio](https://en.wikipedia.org/wiki/Yoshua_Bengio), and [Joelle Pineau](https://en.wikipedia.org/wiki/Jo%C3%ABlle_Pineau). In 2019, I received the [Vanier Fellowship](https://vanier.gc.ca/), Canada’s most prestigious doctoral award. 
 
-Before transitioning into AI in 2015, I studied electrical and computer engineering and worked for about four years as a software engineer in Nigeria’s energy sector. My very first job was in a [Lagos](https://en.wikipedia.org/wiki/Lagos) factory, climbing 40-foot scaffoldings daily to fix electrical fittings—an experience that taught me what it really takes to build things that matter.
+Before transitioning into AI in 2015, I studied electrical and computer engineering and worked for about four years as a software engineer in Nigeria’s energy sector. Prior to that, my very first job was in a [Lagos](https://en.wikipedia.org/wiki/Lagos) factory, climbing 40-foot scaffoldings daily to fix electrical fittings—an experience that taught me what it really takes to build things that matter.
 
 Outside of work, I recharge through sports and [music](https://www.youtube.com/@cconu). I enjoy running, swimming, and tennis, and play guitar, keyboard, and harmonica. I busked for three summers in Montreal and performed at the closing banquets of [NeurIPS](https://neurips.cc/) in 2018 and 2019.
 
